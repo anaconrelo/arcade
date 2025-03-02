@@ -1,0 +1,4 @@
+enum GamesSelection {
+  tetris,
+  flappy,
+}
